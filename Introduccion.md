@@ -1,0 +1,3 @@
+- 👋 Hola, soy @ubaid2003
+- 👀 Estoy interesado en Linguistics, Coding y Productivity.
+- 🌱 I’m currently learning Java & Espanol.
