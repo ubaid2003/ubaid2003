@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ubaid Ur Rahman</h1>
 <h3 align="center">A passionate web developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
 - 🌱 I’m currently learning **JS, React.**
 
 - 📫 How to reach me **ubaid.in.2003@gmail.com**
