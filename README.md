@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ubaid Ur Rahman</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<h4 align="center">I am not very much active here, But sure somewhere I am. 😉</h4>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
-- 🌱 I’m currently learning **JS, React.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaid2003&label=Profile%20views&color=0e75b6&style=flat" alt="ubaid2003" /> </p>
+-🌱 I’m currently learning <b>JS, React.</b>
 
-- 📫 How to reach me **ubaid.in.2003@gmail.com**
+-📫 How to reach me <b>**ubaid.in.2003@gmail.com**</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
